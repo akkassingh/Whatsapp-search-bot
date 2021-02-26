@@ -28,7 +28,7 @@ If everything goes well you should get a response back
 
 
 <hr>
-Come say hi on Instagram [@akkkas](https://www.instagram.com/akkassingh! 
+Come say hi on Instagram [@akkkas](https://www.instagram.com/akkassingh)! 
 
 ----
 > Akkas: [www.akkassingh.me](http://akkassingh.me/) &nbsp;&middot;&nbsp;
