@@ -12,7 +12,7 @@ Do Google Search on Whatsapp.
     * CX = Search Engine Id
 
 2. ### Install dependencies
-    ```sh npm install ```
+    ```npm install ```
 
 3. ### Install and Unzip ngrok inside your directory
 
